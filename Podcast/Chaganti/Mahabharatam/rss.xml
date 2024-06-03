@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Your Podcast Title</title>
+        <link>https://bdbyte.github.io</link>
+        <description>Your podcast description.</description>
+        <language>en-us</language>
+        <itunes:author>Your Name</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://your-image-url.com/podcast-cover.jpg"/>
+        <itunes:category text="Category"/>
+        
+        <item>
+            <title>ADIPARVAM01.mp3</title>
+            <description>ADIPARVAM01.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3" length="51105153" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM15.mp3</title>
+            <description>ADIPARVAM15.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3" length="55704794" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM29.mp3</title>
+            <description>ADIPARVAM29.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3" length="56170400" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM28.mp3</title>
+            <description>ADIPARVAM28.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3" length="25012379" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM14.mp3</title>
+            <description>ADIPARVAM14.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3" length="51349659" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM16.mp3</title>
+            <description>ADIPARVAM16.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3" length="44600454" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM02.mp3</title>
+            <description>ADIPARVAM02.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3" length="52568428" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM03.mp3</title>
+            <description>ADIPARVAM03.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3" length="54875981" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM17.mp3</title>
+            <description>ADIPARVAM17.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3" length="54975455" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM13.mp3</title>
+            <description>ADIPARVAM13.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3" length="53436111" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM07.mp3</title>
+            <description>ADIPARVAM07.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3" length="49500608" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM06.mp3</title>
+            <description>ADIPARVAM06.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3" length="29171073" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM12.mp3</title>
+            <description>ADIPARVAM12.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3" length="31909542" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM38.mp3</title>
+            <description>ADIPARVAM38.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3" length="60140177" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM04.mp3</title>
+            <description>ADIPARVAM04.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3" length="45380366" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM10.mp3</title>
+            <description>ADIPARVAM10.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3" length="30103122" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM11.mp3</title>
+            <description>ADIPARVAM11.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3" length="51992062" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM05.mp3</title>
+            <description>ADIPARVAM05.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3" length="62355360" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM39.mp3</title>
+            <description>ADIPARVAM39.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3" length="50726900" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM49.mp3</title>
+            <description>ADIPARVAM49.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3" length="38516640" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM48.mp3</title>
+            <description>ADIPARVAM48.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3" length="59040108" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM43.mp3</title>
+            <description>ADIPARVAM43.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3" length="42269914" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM42.mp3</title>
+            <description>ADIPARVAM42.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3" length="56551579" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM40.mp3</title>
+            <description>ADIPARVAM40.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3" length="60419373" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM41.mp3</title>
+            <description>ADIPARVAM41.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3" length="41249258" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM51.mp3</title>
+            <description>ADIPARVAM51.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3" length="31667961" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM45.mp3</title>
+            <description>ADIPARVAM45.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3" length="69461502" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM44.mp3</title>
+            <description>ADIPARVAM44.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3" length="58180366" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM50.mp3</title>
+            <description>ADIPARVAM50.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3" length="59261627" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM46.mp3</title>
+            <description>ADIPARVAM46.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3" length="26824650" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM47.mp3</title>
+            <description>ADIPARVAM47.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3" length="89188340" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM20.mp3</title>
+            <description>ADIPARVAM20.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3" length="52473133" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM34.mp3</title>
+            <description>ADIPARVAM34.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3" length="53191605" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM08.mp3</title>
+            <description>ADIPARVAM08.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3" length="45707210" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM09.mp3</title>
+            <description>ADIPARVAM09.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3" length="57189803" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM35.mp3</title>
+            <description>ADIPARVAM35.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3" length="32549855" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM21.mp3</title>
+            <description>ADIPARVAM21.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3" length="58752552" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM37.mp3</title>
+            <description>ADIPARVAM37.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3" length="37385643" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM23.mp3</title>
+            <description>ADIPARVAM23.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3" length="59509476" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM22.mp3</title>
+            <description>ADIPARVAM22.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3" length="58898838" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM36.mp3</title>
+            <description>ADIPARVAM36.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3" length="52028843" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM32.mp3</title>
+            <description>ADIPARVAM32.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3" length="56393591" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM26.mp3</title>
+            <description>ADIPARVAM26.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3" length="45191449" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM27.mp3</title>
+            <description>ADIPARVAM27.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3" length="60970244" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM33.mp3</title>
+            <description>ADIPARVAM33.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3" length="39472931" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM19.mp3</title>
+            <description>ADIPARVAM19.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3" length="61347243" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM25.mp3</title>
+            <description>ADIPARVAM25.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3" length="57737747" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM31.mp3</title>
+            <description>ADIPARVAM31.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3" length="18435373" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM30.mp3</title>
+            <description>ADIPARVAM30.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3" length="44706616" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM24.mp3</title>
+            <description>ADIPARVAM24.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3" length="36951801" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+        <item>
+            <title>ADIPARVAM18.mp3</title>
+            <description>ADIPARVAM18.mp3</description>
+            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</link>
+            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</guid>
+            <pubDate>Sun, 02 Jun 2024 21:03:38 GMT</pubDate>
+            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3" length="40836314" type="audio/mpeg"/>
+            <itunes:duration>00:00:00</itunes:duration>  <!-- Adjust as necessary -->
+        </item>
+        
+    </channel>
+</rss>
