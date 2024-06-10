@@ -7,17 +7,17 @@
         <language>en-us</language>
         <itunes:author>BDByte</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:image href="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Mahabharatam.jpg"/>
+        <itunes:image href="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Mahabharatam.jpg"/>
         <itunes:category text="Education"/>
         <atom:link href="https://bdbyte.github.io/rss.xml" rel="self" type="application/rss+xml"/>
         
         <item>
             <title>ADIPARVAM01.mp3</title>
             <description>ADIPARVAM01.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM01.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>1</itunes:episode>
@@ -27,10 +27,10 @@
         <item>
             <title>ADIPARVAM02.mp3</title>
             <description>ADIPARVAM02.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM02.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>2</itunes:episode>
@@ -40,10 +40,10 @@
         <item>
             <title>ADIPARVAM03.mp3</title>
             <description>ADIPARVAM03.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM03.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>3</itunes:episode>
@@ -53,10 +53,10 @@
         <item>
             <title>ADIPARVAM04.mp3</title>
             <description>ADIPARVAM04.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM04.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>4</itunes:episode>
@@ -66,10 +66,10 @@
         <item>
             <title>ADIPARVAM05.mp3</title>
             <description>ADIPARVAM05.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM05.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>5</itunes:episode>
@@ -79,10 +79,10 @@
         <item>
             <title>ADIPARVAM06.mp3</title>
             <description>ADIPARVAM06.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM06.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>6</itunes:episode>
@@ -92,10 +92,10 @@
         <item>
             <title>ADIPARVAM07.mp3</title>
             <description>ADIPARVAM07.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM07.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>7</itunes:episode>
@@ -105,10 +105,10 @@
         <item>
             <title>ADIPARVAM08.mp3</title>
             <description>ADIPARVAM08.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM08.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>8</itunes:episode>
@@ -118,10 +118,10 @@
         <item>
             <title>ADIPARVAM09.mp3</title>
             <description>ADIPARVAM09.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM09.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>9</itunes:episode>
@@ -131,10 +131,10 @@
         <item>
             <title>ADIPARVAM10.mp3</title>
             <description>ADIPARVAM10.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM10.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>10</itunes:episode>
@@ -144,10 +144,10 @@
         <item>
             <title>ADIPARVAM11.mp3</title>
             <description>ADIPARVAM11.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM11.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>11</itunes:episode>
@@ -157,10 +157,10 @@
         <item>
             <title>ADIPARVAM12.mp3</title>
             <description>ADIPARVAM12.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM12.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>12</itunes:episode>
@@ -170,10 +170,10 @@
         <item>
             <title>ADIPARVAM13.mp3</title>
             <description>ADIPARVAM13.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM13.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>13</itunes:episode>
@@ -183,10 +183,10 @@
         <item>
             <title>ADIPARVAM14.mp3</title>
             <description>ADIPARVAM14.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM14.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>14</itunes:episode>
@@ -196,10 +196,10 @@
         <item>
             <title>ADIPARVAM15.mp3</title>
             <description>ADIPARVAM15.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM15.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>15</itunes:episode>
@@ -209,10 +209,10 @@
         <item>
             <title>ADIPARVAM16.mp3</title>
             <description>ADIPARVAM16.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM16.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>16</itunes:episode>
@@ -222,10 +222,10 @@
         <item>
             <title>ADIPARVAM17.mp3</title>
             <description>ADIPARVAM17.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM17.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>17</itunes:episode>
@@ -235,10 +235,10 @@
         <item>
             <title>ADIPARVAM18.mp3</title>
             <description>ADIPARVAM18.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM18.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>18</itunes:episode>
@@ -248,10 +248,10 @@
         <item>
             <title>ADIPARVAM19.mp3</title>
             <description>ADIPARVAM19.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM19.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>19</itunes:episode>
@@ -261,10 +261,10 @@
         <item>
             <title>ADIPARVAM20.mp3</title>
             <description>ADIPARVAM20.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM20.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>20</itunes:episode>
@@ -274,10 +274,10 @@
         <item>
             <title>ADIPARVAM21.mp3</title>
             <description>ADIPARVAM21.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM21.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>21</itunes:episode>
@@ -287,10 +287,10 @@
         <item>
             <title>ADIPARVAM22.mp3</title>
             <description>ADIPARVAM22.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM22.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>22</itunes:episode>
@@ -300,10 +300,10 @@
         <item>
             <title>ADIPARVAM23.mp3</title>
             <description>ADIPARVAM23.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM23.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>23</itunes:episode>
@@ -313,10 +313,10 @@
         <item>
             <title>ADIPARVAM24.mp3</title>
             <description>ADIPARVAM24.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM24.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>24</itunes:episode>
@@ -326,10 +326,10 @@
         <item>
             <title>ADIPARVAM25.mp3</title>
             <description>ADIPARVAM25.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM25.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>25</itunes:episode>
@@ -339,10 +339,10 @@
         <item>
             <title>ADIPARVAM26.mp3</title>
             <description>ADIPARVAM26.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM26.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>26</itunes:episode>
@@ -352,10 +352,10 @@
         <item>
             <title>ADIPARVAM27.mp3</title>
             <description>ADIPARVAM27.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM27.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>27</itunes:episode>
@@ -365,10 +365,10 @@
         <item>
             <title>ADIPARVAM28.mp3</title>
             <description>ADIPARVAM28.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM28.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>28</itunes:episode>
@@ -378,10 +378,10 @@
         <item>
             <title>ADIPARVAM29.mp3</title>
             <description>ADIPARVAM29.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM29.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>29</itunes:episode>
@@ -391,10 +391,10 @@
         <item>
             <title>ADIPARVAM30.mp3</title>
             <description>ADIPARVAM30.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM30.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>30</itunes:episode>
@@ -404,10 +404,10 @@
         <item>
             <title>ADIPARVAM31.mp3</title>
             <description>ADIPARVAM31.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM31.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>31</itunes:episode>
@@ -417,10 +417,10 @@
         <item>
             <title>ADIPARVAM32.mp3</title>
             <description>ADIPARVAM32.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM32.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>32</itunes:episode>
@@ -430,10 +430,10 @@
         <item>
             <title>ADIPARVAM33.mp3</title>
             <description>ADIPARVAM33.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM33.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>33</itunes:episode>
@@ -443,10 +443,10 @@
         <item>
             <title>ADIPARVAM34.mp3</title>
             <description>ADIPARVAM34.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM34.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>34</itunes:episode>
@@ -456,10 +456,10 @@
         <item>
             <title>ADIPARVAM35.mp3</title>
             <description>ADIPARVAM35.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM35.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>35</itunes:episode>
@@ -469,10 +469,10 @@
         <item>
             <title>ADIPARVAM36.mp3</title>
             <description>ADIPARVAM36.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM36.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>36</itunes:episode>
@@ -482,10 +482,10 @@
         <item>
             <title>ADIPARVAM37.mp3</title>
             <description>ADIPARVAM37.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM37.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>37</itunes:episode>
@@ -495,10 +495,10 @@
         <item>
             <title>ADIPARVAM38.mp3</title>
             <description>ADIPARVAM38.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM38.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>38</itunes:episode>
@@ -508,10 +508,10 @@
         <item>
             <title>ADIPARVAM39.mp3</title>
             <description>ADIPARVAM39.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM39.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>39</itunes:episode>
@@ -521,10 +521,10 @@
         <item>
             <title>ADIPARVAM40.mp3</title>
             <description>ADIPARVAM40.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM40.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>40</itunes:episode>
@@ -534,10 +534,10 @@
         <item>
             <title>ADIPARVAM41.mp3</title>
             <description>ADIPARVAM41.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM41.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>41</itunes:episode>
@@ -547,10 +547,10 @@
         <item>
             <title>ADIPARVAM42.mp3</title>
             <description>ADIPARVAM42.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM42.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>42</itunes:episode>
@@ -560,10 +560,10 @@
         <item>
             <title>ADIPARVAM43.mp3</title>
             <description>ADIPARVAM43.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM43.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>43</itunes:episode>
@@ -573,10 +573,10 @@
         <item>
             <title>ADIPARVAM44.mp3</title>
             <description>ADIPARVAM44.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM44.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>44</itunes:episode>
@@ -586,10 +586,10 @@
         <item>
             <title>ADIPARVAM45.mp3</title>
             <description>ADIPARVAM45.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM45.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>45</itunes:episode>
@@ -599,10 +599,10 @@
         <item>
             <title>ADIPARVAM46.mp3</title>
             <description>ADIPARVAM46.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM46.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>46</itunes:episode>
@@ -612,10 +612,10 @@
         <item>
             <title>ADIPARVAM47.mp3</title>
             <description>ADIPARVAM47.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM47.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>47</itunes:episode>
@@ -625,10 +625,10 @@
         <item>
             <title>ADIPARVAM48.mp3</title>
             <description>ADIPARVAM48.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM48.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>48</itunes:episode>
@@ -638,10 +638,10 @@
         <item>
             <title>ADIPARVAM49.mp3</title>
             <description>ADIPARVAM49.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM49.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>49</itunes:episode>
@@ -651,10 +651,10 @@
         <item>
             <title>ADIPARVAM50.mp3</title>
             <description>ADIPARVAM50.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM50.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>50</itunes:episode>
@@ -664,10 +664,10 @@
         <item>
             <title>ADIPARVAM51.mp3</title>
             <description>ADIPARVAM51.mp3</description>
-            <link>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</link>
-            <guid>https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</guid>
+            <link>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</link>
+            <guid>http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3</guid>
             <pubDate>Mon, 03 Jun 2024 01:50:03 GMT</pubDate>
-            <enclosure url="https://a1b0-74-88-221-189.ngrok-free.app/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3" length="0" type="audio/mpeg"/>
+            <enclosure url="http://podcast.bdbyte.xyz/Podcasts/Chaganti/Mahabharatam/Adiparvam/ADIPARVAM51.mp3" length="0" type="audio/mpeg"/>
             <itunes:duration>01:32:50</itunes:duration>  <!-- Adjust as necessary -->
             <itunes:season>1</itunes:season>
             <itunes:episode>51</itunes:episode>
